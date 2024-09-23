@@ -10,7 +10,9 @@
 Вычисление перед отправкой:
 Alice’s mixture = (root ^ Alice’s Secret) % prime
 Bob’s mixture = (root ^ Bob’s Secret) % prime
+
 Вычисление после приема:
+
 Вычисления Алисы
 (Bob’s mixture ^ Alice’s Secret) % prime
 
@@ -34,3 +36,6 @@ Bob’s mixture = (root ^ Bob’s Secret) % prime
 
 ## Статья
 - https://habr.com/ru/articles/188042/
+
+
+Сам процесс 1 и 2 называется - процесс рукопожатия
