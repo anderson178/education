@@ -34,7 +34,7 @@ Bob’s mixture = (root ^ Bob’s Secret) % prime
 4. куки
 
 
-## Статья
+## Доп. источник
 - https://habr.com/ru/articles/188042/
 
 
