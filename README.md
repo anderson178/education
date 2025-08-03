@@ -18,3 +18,4 @@ Road to senior
 - [Dependency Injection - реализация](multithreading/src/main/java/ru/education/di/conclusion.md)
 - [Типы блокировок](multithreading/src/main/java/ru/education/lock/conclusion.md)
 - [Статические анализаторы кода](multithreading/src/main/java/ru/education/analysis_code/conclusion.md)
+- [Алгоритмы сортировок](multithreading/src/main/java/ru/education/sort/conclusion.md)
