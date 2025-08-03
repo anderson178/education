@@ -14,3 +14,5 @@ Road to senior
 - [SOLID](multithreading/src/main/java/ru/education/solid/conclusion.md)
 - [Web-socket](multithreading/src/main/java/ru/education/web_socket/conclusion.md)
 - [DB Connection Pool](multithreading/src/main/java/ru/education/db_connection_pool/conclusion.md)
+- [Annotation](multithreading/src/main/java/ru/education/annotation/conclusion.md)
+- [Dependency Injection - реализация](multithreading/src/main/java/ru/education/di/conclusion.md)
