@@ -16,3 +16,4 @@ Road to senior
 - [DB Connection Pool](multithreading/src/main/java/ru/education/db_connection_pool/conclusion.md)
 - [Annotation](multithreading/src/main/java/ru/education/annotation/conclusion.md)
 - [Dependency Injection - реализация](multithreading/src/main/java/ru/education/di/conclusion.md)
+- [Типы блокировок](multithreading/src/main/java/ru/education/lock/conclusion.md)
