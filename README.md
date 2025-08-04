@@ -19,4 +19,4 @@ Road to senior
 - [Типы блокировок](multithreading/src/main/java/ru/education/lock/conclusion.md)
 - [Статические анализаторы кода](multithreading/src/main/java/ru/education/analysis_code/conclusion.md)
 - [Алгоритмы сортировок](multithreading/src/main/java/ru/education/sort/conclusion.md)
-- [DB index](multithreading/src/main/java/ru/education/db_index/conclusion.md)
+- [Индексы и хранение данных в БД](multithreading/src/main/java/ru/education/db_index/conclusion.md)
