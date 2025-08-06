@@ -20,3 +20,4 @@ Road to senior
 - [Статические анализаторы кода](multithreading/src/main/java/ru/education/analysis_code/conclusion.md)
 - [Алгоритмы сортировок](multithreading/src/main/java/ru/education/sort/conclusion.md)
 - [Индексы и хранение данных в БД](multithreading/src/main/java/ru/education/db_index/conclusion.md)
+- [Партицирование и шардирование в БД](multithreading/src/main/java/ru/education/db_partition_shard/conclusion.md)
