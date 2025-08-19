@@ -3,6 +3,7 @@ Road to senior
 
 ## Содержание:
 
+- [Рефакторинг](multithreading/src/main/java/ru/education/refactoring/conclusion.md)
 - [DRY, KISS, YAGNI принципы](multithreading/src/main/java/ru/education/cleaner_code/conclusion.md)
 - [Многопоточка](multithreading/src/main/java/ru/education/threads/conclusion.md)
 - [CORS](multithreading/src/main/java/ru/education/cors/conclusion.md)
