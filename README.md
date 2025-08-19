@@ -7,6 +7,7 @@ Road to senior
 - [DRY, KISS, YAGNI принципы](multithreading/src/main/java/ru/education/cleaner_code/conclusion.md)
 - [Многопоточка](multithreading/src/main/java/ru/education/threads/conclusion.md)
 - [Блокирующие и неблокирующие сокеты](multithreading/src/main/java/ru/education/socket/conclusion.md)
+- [Java Memory Model](multithreading/src/main/java/ru/education/jmm/conclusion.md)
 - [CORS](multithreading/src/main/java/ru/education/cors/conclusion.md)
 - [HTTPS](multithreading/src/main/java/ru/education/https/conclusion.md)
 - [Настройки jvm](multithreading/src/main/java/ru/education/jvm_settings/conclusion.md)
