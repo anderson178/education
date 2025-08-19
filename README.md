@@ -8,6 +8,8 @@ Road to senior
 - [Многопоточка](multithreading/src/main/java/ru/education/threads/conclusion.md)
 - [Блокирующие и неблокирующие сокеты](multithreading/src/main/java/ru/education/socket/conclusion.md)
 - [Java Memory Model](multithreading/src/main/java/ru/education/jmm/conclusion.md)
+- [RabbitMQ](multithreading/src/main/java/ru/education/rabbit_mq/conclusion.md)
+- [Apache Kafka](multithreading/src/main/java/ru/education/kafka/conclusion.md)
 - [CORS](multithreading/src/main/java/ru/education/cors/conclusion.md)
 - [HTTPS](multithreading/src/main/java/ru/education/https/conclusion.md)
 - [Настройки jvm](multithreading/src/main/java/ru/education/jvm_settings/conclusion.md)
