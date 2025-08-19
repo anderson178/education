@@ -38,3 +38,24 @@ if (ready) {
 - CPU может кэшировать x и ready в локальных кэшах.
 - Поток 2 может увидеть ready = true, но x = 0.
 - → Непредсказуемое поведение.
+
+✅ Пример: как JMM помогает
+```java
+class Data {
+    volatile boolean ready = false;
+    int value = 0;
+}
+
+// Поток 1
+data.value = 42;
+data.ready = true; // volatile → создает happens-before
+
+// Поток 2
+if (data.ready) { // volatile → видит все записи до неё
+    System.out.println(data.value); // Гарантированно 42
+}
+```
+
+✅ Благодаря volatile, JMM гарантирует:
+- Нет переупорядочения.
+- Второй поток видит все изменения, сделанные до ready = true.
