@@ -28,5 +28,5 @@ Road to senior
 - [Партицирование и шардирование в БД](multithreading/src/main/java/ru/education/db_partition_shard/conclusion.md)
 - [Репликации в БД](multithreading/src/main/java/ru/education/db_replication/conclusion.md)
 - [Redis](multithreading/src/main/java/ru/education/cache/redis.md)
-- [Hazelcast](multithreading/src/main/java/ru/education/cache/haselcast.md)
+- [Hazelcast](multithreading/src/main/java/ru/education/cache/hazelcast.md)
 - [Redis vs Hazelcast](multithreading/src/main/java/ru/education/cache/hazelcast_vs_redis.md)
